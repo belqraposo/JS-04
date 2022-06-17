@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main{
+    margin: 5rem;
+    width: 80%;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+main div{
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+h1{
+    color: indianred;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h2{
+    color: indianred;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
